@@ -29,7 +29,7 @@
 <tr>
 <td>Development</td>
 <td> <a href="https://github.com/sachinpachpute" >
-    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,pug,handlebars" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,ajax,jquery" />
   </a>
 </td>
 </tr>
@@ -37,7 +37,7 @@
 <tr>
 <td>CSS Framework</td>
 <td> <a href="https://github.com/sachinpachpute" >
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=springboot,struts,chordiant" />
   </a>
  </td>
 </tr>
@@ -56,7 +56,7 @@
 <tr>
 <td>Frontend Framework</td>
 <td> <a href="https://github.com/sachinpachpute" >
-    <img src="https://skillicons.dev/icons?i=react,vite,next" />
+    <img src="https://skillicons.dev/icons?i=react,jsp" />
   </a>
  </td>
 </tr>
@@ -70,53 +70,26 @@
    </a>
 </td>
 </tr>
-<tr>
-<td>Backend Adapter</td>
-<td> <a href="https://github.com/sachinpachpute" >
-    <img src="https://skillicons.dev/icons?i=prisma" />
-    <img height="50rem" src = './nextauth.png'/>
-    <img height="50rem" src = "./resend.png"/>
-   </a>
-</td>
-</tr>
 
 <tr>
 <td>Database</td>
 <td> <a href="https://github.com/sachinpachpute" >
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-   </a>
-</td>
-</tr>
-<tr>
-<td>CMS</td>
-<td> <a href="https://github.com/sachinpachpute" >
-<img src="./sanity.png" height="50rem"/>
-
+    <img src="https://skillicons.dev/icons?i=mysql,dynamodb" />
    </a>
 </td>
 </tr>
 
-
-
 <tr>
-<td>Gaming</td>
+<td>DevOps</td>
 <td> <a href="https://github.com/sachinpachpute" >
-    <img src="https://skillicons.dev/icons?i=unity,blender" />
-  </a>
- </td>
-</tr>
-
-<tr>
-<td>Hosting</td>
-<td> <a href="https://github.com/sachinpachpute" >
-    <img src="https://skillicons.dev/icons?i=vercel,firebase,github,aws" />
+    <img src="https://skillicons.dev/icons?i=github,aws" />
   </a>
 </td>
 </tr>
 <tr>
 <td>Tools</td>
 <td> <a href="https://github.com/sachinpachpute" >
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,docker,replit,stackoverflow,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,intellij,eclipse,docker,kubernetes,postman" />
     <img src="./jupyter.png" height="50rem"/>
   </a>
 </td>
