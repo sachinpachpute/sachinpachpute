@@ -18,81 +18,16 @@
 
 <h1 align="center">Languages and Tools:</h1>
 <table align="center">
-<tr>
-<td>Language</td>
-<td> <a href="https://github.com/sachinpachpute" >
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
-</a> 
-</td>
-</tr>
+
+
 
 <tr>
-<td>Development</td>
-<td> <a href="https://github.com/sachinpachpute" >
-    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,ajax,jquery" />
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
-</td>
-</tr>
-
-<tr>
-<td>CSS Framework</td>
-<td> <a href="https://github.com/sachinpachpute" >
-    <img src="https://skillicons.dev/icons?i=springboot,struts,chordiant" />
-  </a>
- </td>
-</tr>
-
-<tr>
-<td>UI</td>
-<td> <a href="https://github.com/sachinpachpute" >
-    <img height="50rem" src=chakra.jpg/>
-    <img height="50rem" src=daisy.png/>
-    <img height="50rem" src=shadn.png />
-
-  </a>
- </td>
-</tr>
-
-<tr>
-<td>Frontend Framework</td>
-<td> <a href="https://github.com/sachinpachpute" >
-    <img src="https://skillicons.dev/icons?i=react,jsp" />
-  </a>
- </td>
-</tr>
-
-<tr>
-<td>Backend Framework</td>
-<td> <a href="https://github.com/sachinpachpute" >
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
-    <img height="50rem" src = './zod.svg'/>
-    <img height="50rem" src = './flask.png'/>
-   </a>
-</td>
-</tr>
-
-<tr>
-<td>Database</td>
-<td> <a href="https://github.com/sachinpachpute" >
-    <img src="https://skillicons.dev/icons?i=mysql,dynamodb" />
-   </a>
-</td>
-</tr>
-
-<tr>
-<td>DevOps</td>
-<td> <a href="https://github.com/sachinpachpute" >
-    <img src="https://skillicons.dev/icons?i=github,aws" />
-  </a>
-</td>
-</tr>
-<tr>
-<td>Tools</td>
-<td> <a href="https://github.com/sachinpachpute" >
-    <img src="https://skillicons.dev/icons?i=git,github,intellij,eclipse,docker,kubernetes,postman" />
-    <img src="./jupyter.png" height="50rem"/>
-  </a>
-</td>
+</p>
 </tr>
 </table>
 </div>
