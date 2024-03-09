@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=30&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+Profile!;I'm+Sachin+Pachpute;Nice+to+meet+you!">
 </p>
 
-- 🔭 I’m currently working on **cerating a Full Stack Ecommerce application for Book Store**
+- 🔭 I’m currently working on **Cerating a Full Stack Ecommerce application for Book Store**
 - 🌱 I’m currently doing **CKAD (Certified Kubernetes Application Developer) certification**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Java • Spring Boot • Spring Cloud • Amazon Web Services (AWS) • Kubernetes • Docker • DevOps**
