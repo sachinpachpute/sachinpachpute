@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,java,spring,react,mysql,dynamodb,jquery,jenkins,ansible&perline=7" />
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,java,spring,react,mysql,dynamodb,jquery,jenkins,ansible,eclipse,nginx&perline=7" />
   </a>
 </p>
 </tr>
