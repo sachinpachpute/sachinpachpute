@@ -5,10 +5,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=30&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+Profile!;I'm+Sachin+Pachpute;Nice+to+meet+you!">
 </p>
 
-- 🔭 I’m currently working on **Cerating a Full Stack Ecommerce application for Book Store**
+- 🔭 I’m currently working on **Cerating a Full Stack Ecommerce application for a Book Store**
 - 🌱 I’m currently doing **CKAD (Certified Kubernetes Application Developer) certification**
+- 🌱 I’m **AWS Certified Developer Associate**
+- 🌱 I’m **AWS Certified Solution Architect Associate**
+- 🌱 I’m **Sun certified programmer for the Java**
+- 🌱 I’m **Chordiant Certified Technical Developer**
+- 🌱 I’m **Certified Prince2 Practitioner**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java • Spring Boot • Spring Cloud • Amazon Web Services (AWS) • Kubernetes • Docker • DevOps**
+- 💬 Ask me about **Java • Spring Boot • Spring Cloud • Microservices • Amazon Web Services (AWS) • Kubernetes • Docker • DevOps**
 - 📫 How to reach me: **sachin.pachpute@gmail.com**
 
 <h1 align="center">Languages and Tools:</h1>
